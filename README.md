@@ -11,7 +11,6 @@
 
 **[Open the Live Streamlit Dashboard](https://aswinajimon57-ux-cpytpjbzcwbpj6kxrg8ezb.streamlit.app/)**
 
-> Replace the URL above with your deployed Streamlit application link.
 
 ---
 
