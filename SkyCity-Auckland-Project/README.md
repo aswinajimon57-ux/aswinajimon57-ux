@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-**[Open the Live Streamlit Dashboard](https://aswinajimon57-ux-cpytpjbzcwbpj6kxrg8ezb.streamlit.app/)**
+**[Open the Live Streamlit Dashboard]([https://aswinajimon57-ux-aizl4e4vffcbkx9xyuwhem.streamlit.app/])**
 
 
 ---
